@@ -63,3 +63,105 @@ nav ul li a:hover{
 .search-container button:hover{
   background-color: #e3651d;
 }
+.hero{
+background-image:url(img/pexels-vanmalidate-784633.jpg) ;
+background-size: cover;
+background-position: center;
+color: #fff;
+text-align: center;
+padding: 100px 40px;
+}
+.hero h1{
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+.order-button{
+ display: block;
+ background-color: #ff5733;
+ color: #fff;
+ padding: 10px 20px;
+border-radius: 4px;
+margin-top: 10px;
+margin: 0 auto;
+border: none;
+cursor: pointer;
+outline: none;
+transition: 300ms all;
+}
+.order-button:hover{
+  background-color: #ff3d00;
+}
+.promotion, .featured ,.menu{
+  margin: 20px auto;
+  max-width: 1200px;
+  position: relative;
+}
+.promotion h3,
+ .featured h3,
+ .menu h3{
+  margin-bottom: 20px;
+}
+.menu-items{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.menu-item{
+  width: calc(33.333% - 20px); /* Üç sütunlu düzen */
+  padding: 30px;
+  background-color: #fff;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+.menu-item img{
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.menu-item:hover{
+  transform: scale(1.05);
+  transition: 300ms all;
+}
+.menu-item h3,
+.menu-item p{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.menu-item span{
+  font-weight: bold;
+  color: green;
+  display: block;
+}
+del{
+  color: red;
+}
+.tag{
+  background-color: #ff5733;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 4px;
+  position: absolute;
+  font-size: 12px;
+  top: -10px;
+  right: -5px;
+}
+.footer{
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  width: 100%;
+}
+@media only screen and (max-width: 400px) {
+  .menu {
+     text-align: center;
+  }
+  .promotion, .featured {
+    text-align: center;
+  }
+  .menu-item{
+    margin: 15px auto;
+  }
+}
