@@ -1,5 +1,5 @@
 Bu projemde temelden öğrendiğim HTML ve CSS bilgilerimle Yemek Sitesi oluşturmak istedim.
-İlk olarak proje.html sayfası açtım ve sitemde gözükmesini istediğim yazıları, butonları, resimleri ayarladım.
+İlk olarak projede html sayfası açtım ve sitemde gözükmesini istediğim yazıları, butonları, resimleri ayarladım.
 İstenen yemeklerin aranması için bir arama butonu ekledim.
 Site daha güzel gözüksün diye ortaya gelmesini istediğim yazıyı p etiketi ile yazdım.
 İnternetten seçmiş olduğum resimleri img klasörü içine attım.
