@@ -1,7 +1,7 @@
 Bu projemde temelden öğrendiğim HTML ve CSS bilgilerimle Yemek Sitesi oluşturmak istedim.
 İlk olarak proje.html sayfası açtım ve sitemde gözükmesini istediğim yazıları, butonları, resimleri ayarladım.
 İstenen yemeklerin aranması için bir arama butonu ekledim.
-Site daha güzel gözüksün diye ortaya gelmesini istediğim yazıyı p etiketile yazdım.
+Site daha güzel gözüksün diye ortaya gelmesini istediğim yazıyı p etiketi ile yazdım.
 İnternetten seçmiş olduğum resimleri img klasörü içine attım.
 İlk olarak indirimli yemekler eski fiyatıyla gözüksün istedim bunun için del etiketini kullandım.
 Resim, yemeğin ismi ve yemek hakkında bilgi verdikten sonra sipariş için "hemen al" şeklinde bir buton ekledim.
@@ -12,7 +12,7 @@ CSS kısmına geldiğimizde ise; proje.css adında bir dosya açtım.Bu dosyayı
 Altı çizili olduğu için stili none yaparak çizgileri kaldırdım.
 Hover özelliği ile üstüne gelindiğinde altının çizili olmasını sağladım.
 Container için genişliğini,kenar boşlukları,taşma olmama hatasını ayarladım.
-Buton için rengini değiştirdim.Container ile bitşik olması için padding değeri verdim.Kenarlık verdim ve üzerine gelince rengini hover özelliği ile değiştirdim.
+Buton için rengini değiştirdim.Container ile bitişik olması için padding değeri verdim.Kenarlık verdim ve üzerine gelince rengini hover özelliği ile değiştirdim.
 Sitenin ortasında bulunan yazı için arkaplan resmi ayarladım.Resmi ortaladım.Yazının rengini beyaz yaptım.
 Hemen al butonu için ise arka plan rengi verdim. Hover özelliği ekledim.
 Tüm bölümler yatay  ve üçlü aralarında boşluk olarak hizalansın istedim.
